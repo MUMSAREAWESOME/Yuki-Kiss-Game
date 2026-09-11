@@ -19,5 +19,5 @@ Download the .exe from the releases.
 > [!WARNING]
 > This has not been tested on Windows or MacOs
 
-!["Akward Moment"]url(/images/yuki_post_kiss_no_bg.png)
+![Akward Moment]url(/images/yuki_post_kiss_no_bg.png)
 > What was that for. Baka~! - Yuki Kazue
